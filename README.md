@@ -28,4 +28,7 @@
 
 - 
 
-Analysis done using the DEseq2 package Project created 12/11/2026
+Analysis done using the DEseq2 package
+Project was elaborated with the help of Anthropic LLM; Claude model Opus 5.5
+Project created 12/11/2026
+
